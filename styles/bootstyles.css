@@ -1,0 +1,36 @@
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 75px;
+    text-align: center;
+}
+
+.format{
+    border: black 2px;
+    background-color: darkgray;
+}
+
+.center{
+    text-align: center;
+}
+
+.mainbody{
+    left: 5px;
+    right: 5px;
+    top: 85px;
+    background-color: black;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 75px;
+}
+
+.white{
+    color: white;
+}

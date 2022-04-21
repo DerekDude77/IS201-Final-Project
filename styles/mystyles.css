@@ -1,0 +1,27 @@
+a{
+    color: blue;
+}
+
+.altcolor{
+    color: yellow;
+}
+
+.unbolded{
+    font-weight: normal;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.undertext{
+    font-size: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.underline{
+    text-decoration: underline;
+}
